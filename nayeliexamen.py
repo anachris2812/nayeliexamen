@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import simpledialog, messagebox
-
+#Codigo con Interfaz gráfica
 class Vuelo:
     def __init__(self, origen, destino, hora_salida, hora_llegada, precio):
         self.origen = origen
